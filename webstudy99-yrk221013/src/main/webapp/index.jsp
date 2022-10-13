@@ -20,24 +20,15 @@
 <<<<<<< HEAD
 7시까지 kosta 012-3456-7890으로 10000만원을 입금하지 않으면 파일을 날리겠습니다
 =======
->>>>>>> branch 'main' of https://github.com/yerin-ddadda/yrk221013.git
+
 
 오늘 재미있었지?
-<<<<<<< HEAD
-상현이는 주원닮았어!
-동의!
-
-주영이는 방탄소년단 진 닮았어!
-
-예린이는 여자친구 예린 닮았어
-=======
 박범 = 강하늘
 
 난누구닮았어?-예린-
 아는 사람이 없어서 어렵네요
 
 예린이는 여자친구 예린닮았어
->>>>>>> branch 'main' of https://github.com/yerin-ddadda/yrk221013.git
 </div>
 </body>
 </html>
